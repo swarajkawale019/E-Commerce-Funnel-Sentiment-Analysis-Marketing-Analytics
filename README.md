@@ -49,11 +49,11 @@ ShopEasy, an online retail business, has recently launched several online market
 
 2. **Social Media Engagement Is Declining :** While blog content generates the most views, overall social media views saw a steady decline in the second half of the year. Furthermore, interaction rates (clicks and likes) are low compared to view counts, indicating that the content is not effectively compelling users to act.
 
-   ![image alt](https://github.com/swarajkawale019/E-Commerce-Funnel-Sentiment-Analysis-Marketing-Analytics/blob/79a1f505352042a5f98c04c7ebfc03d7b2bf487d/visuals/reduced%20customer%20engagement.png)![image alt](https://github.com/swarajkawale019/E-Commerce-Funnel-Sentiment-Analysis-Marketing-Analytics/blob/79a1f505352042a5f98c04c7ebfc03d7b2bf487d/visuals/reduced%20customer%20engagement1.png)
+    ![image alt](https://github.com/swarajkawale019/E-Commerce-Funnel-Sentiment-Analysis-Marketing-Analytics/blob/79a1f505352042a5f98c04c7ebfc03d7b2bf487d/visuals/reduced%20customer%20engagement.png)                  ![image alt](https://github.com/swarajkawale019/E-Commerce-Funnel-Sentiment-Analysis-Marketing-Analytics/blob/79a1f505352042a5f98c04c7ebfc03d7b2bf487d/visuals/reduced%20customer%20engagement1.png)
 
 3. **Customer Satisfaction Has Room for Improvement :** The average customer rating is 3.7 out of 5, which is below the company's target of 4.0. While the majority of reviews (275) are positive, a significant number of negative reviews (82) are impacting the overall score and highlight specific areas of customer dissatisfaction.
 
-   ![image alt](https://github.com/swarajkawale019/E-Commerce-Funnel-Sentiment-Analysis-Marketing-Analytics/blob/79a1f505352042a5f98c04c7ebfc03d7b2bf487d/visuals/customer%20feedback%20analysis.png)![image alt](https://github.com/swarajkawale019/E-Commerce-Funnel-Sentiment-Analysis-Marketing-Analytics/blob/79a1f505352042a5f98c04c7ebfc03d7b2bf487d/visuals/customer%20feedback%20analysis1.png)
+   ![image alt](https://github.com/swarajkawale019/E-Commerce-Funnel-Sentiment-Analysis-Marketing-Analytics/blob/79a1f505352042a5f98c04c7ebfc03d7b2bf487d/visuals/customer%20feedback%20analysis.png)                   ![image alt](https://github.com/swarajkawale019/E-Commerce-Funnel-Sentiment-Analysis-Marketing-Analytics/blob/79a1f505352042a5f98c04c7ebfc03d7b2bf487d/visuals/customer%20feedback%20analysis1.png)
 
 **Actionable Recommendations**
 
