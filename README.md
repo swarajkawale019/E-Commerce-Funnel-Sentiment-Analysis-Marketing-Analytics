@@ -7,6 +7,9 @@
 ## 📌 Executive Summary  
 This project analyzed customer behavior across the full journey—from initial engagement to final purchase and feedback. Using SQL, Python (NLP), and Power BI, the study revealed that a small set of products and seasonal peaks drive most conversions. Engagement was declining across channels, and customer sentiment highlighted service gaps. Based on these insights, targeted marketing, improved content strategy, and customer feedback loops were recommended to enhance ROI and loyalty.  
 
+
+## 📸 Dashboard Overview
+ ![image alt](https://github.com/swarajkawale019/E-Commerce-Funnel-Sentiment-Analysis-Marketing-Analytics/blob/7f321625b8bd5bd171ab2d7a08b1183bbf202c85/visuals/dashboard%20overview.gif)
 ---
 
 ## 🏦 Business Problem
