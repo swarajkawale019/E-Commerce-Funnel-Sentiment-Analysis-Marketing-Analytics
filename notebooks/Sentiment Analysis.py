@@ -10,7 +10,7 @@ nltk.download('vader_lexicon')
 def fetch_data_from_sql():
     conn_str = (
         "Driver={SQL Server};" 
-        "Server=localhost;" 
+        "Server=SWARAJ\SQLEXPRESS;" 
         "Database=PortfolioProject_MarketingAnalytics;" 
         "Trusted_Connection=yes;"
     )
@@ -80,3 +80,4 @@ customer_reviews_df['SentimentBucket'] = customer_reviews_df['SentimentScore'].a
 print(customer_reviews_df.head())
 
 customer_reviews_df.to_csv('fact_customer_reviews_with_sentiment.csv', index=False)
+
